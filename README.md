@@ -8,7 +8,7 @@ The dataset contains details about transactions such as invoice numbers, product
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 The dataset used for this analysis has the following columns:
 
 | Column       | Description |
@@ -24,7 +24,7 @@ The dataset used for this analysis has the following columns:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Perform **data cleaning and preprocessing** on transactional data.
 - Compute **RFM (Recency, Frequency, Monetary) metrics** for each customer.
 - Apply **scaling and clustering techniques** to segment customers.
@@ -32,7 +32,7 @@ The dataset used for this analysis has the following columns:
 
 ---
 
-## 🛠️ Tech Stack & Libraries
+##  Tech Stack & Libraries
 The project is implemented in **Python** using the following libraries:
 
 - **Data Manipulation:** `numpy`, `pandas`
