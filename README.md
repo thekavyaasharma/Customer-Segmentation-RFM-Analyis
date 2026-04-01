@@ -1,6 +1,6 @@
 # 🛒 Customer Segmentation using RFM Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on **customer segmentation** using **RFM (Recency, Frequency, Monetary) analysis** on a retail dataset.  
 By leveraging **unsupervised learning techniques (K-Means, Hierarchical Clustering)**, we aim to group customers into meaningful clusters to help businesses improve marketing strategies, loyalty programs, and customer targeting.
 
