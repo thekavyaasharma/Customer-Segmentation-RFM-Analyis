@@ -1,4 +1,4 @@
-# 🛒 Customer Segmentation using RFM Analysis
+#  Customer Segmentation using RFM Analysis
 
 ##  Project Overview
 This project focuses on **customer segmentation** using **RFM (Recency, Frequency, Monetary) analysis** on a retail dataset.  
@@ -40,11 +40,11 @@ The project is implemented in **Python** using the following libraries:
 - **Machine Learning & Clustering:** `scikit-learn`, `pyclustertend`
 - **Hierarchical Clustering & Distance Metrics:** `scipy`
 
-📌 The list of dependencies can be found in the [Requirements.txt](Requirements.txt) file.
+ The list of dependencies can be found in the [Requirements.txt](Requirements.txt) file.
 
 ---
 
-## 📊 Methodology
+##  Methodology
 1. **Data Preprocessing**
    - Handling missing values
    - Removing duplicates & invalid entries
@@ -68,44 +68,44 @@ The project is implemented in **Python** using the following libraries:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
-### 1️⃣ RFM Distribution
+###  RFM Distribution
 Shows how recency, frequency, and monetary values are spread across customers.
 
 ![RFM Distribution](images/rfm_distribution.png)
 
 ---
 
-### 2️⃣ Elbow Method (K-Means Optimal K)
+###  Elbow Method (K-Means Optimal K)
 Helps determine the optimal number of clusters for K-Means.
 
 ![Elbow Curve](images/elbow_curve.png)
 
 ---
 
-### 3️⃣ Silhouette Score
+###  Silhouette Score
 Evaluates clustering performance for different values of K.
 
 ![Silhouette Score](images/silhouette_score.png)
 
 ---
 
-### 4️⃣ Hierarchical Clustering Dendrogram
+###  Hierarchical Clustering Dendrogram
 Displays the hierarchical structure of customer clusters.
 
 ![Dendrogram](images/dendrogram.png)
 
 ---
 
-### 5️⃣ Customer Segmentation Results
+###  Customer Segmentation Results
 Visualization of final customer clusters.
 
 ![Customer Clusters](images/customer_clusters.png)
 
 ---
 
-## 📈 Results & Insights
+## Results & Insights
 - Customers are grouped into clusters such as **high-value customers**, **frequent buyers**, **new/occasional customers**, etc.
 - Helps businesses target:
   - Loyalty rewards for high-value customers
