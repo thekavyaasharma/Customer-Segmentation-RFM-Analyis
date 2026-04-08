@@ -114,30 +114,30 @@ Visualization of final customer clusters.
 
 ---
 
-## 🚀 How to Run the Project
-### 1️⃣ Clone the repository
+##  How to Run the Project
+###  Clone the repository
 ```bash
 git clone https://github.com/your-username/customer-segmentation-rfm.git
 cd customer-segmentation-rfm
 ```
-### 2️⃣ Install dependencies
+###  Install dependencies
 ```bash
 pip install -r Requirements.txt
 ```
-### 3️⃣ Run the Jupyter Notebook
+###  Run the Jupyter Notebook
 ```bash
 jupyter notebook Customer-Segmentation-RFManalysis.ipynb
 ```
 ---
 
-## 📌 Future Work
+##  Future Work
 - Extend segmentation with **deep learning-based clustering**  
 - Deploy the model using **Flask/Streamlit** for interactive dashboards  
 - Automate RFM updates with **real-time data**  
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Kavya Sharma**  
 B.Tech CSE (AIML) | Data Science & Machine Learning Enthusiast  
 
